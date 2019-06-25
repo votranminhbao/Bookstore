@@ -2,9 +2,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Quản lý sách</title>
   </head>
   <body>
-  $END$
+  <a href="/Bookstore/list">Kho sách</a>
   </body>
 </html>
